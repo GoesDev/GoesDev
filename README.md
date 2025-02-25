@@ -4,7 +4,8 @@ Bem-vindo ao meu GitHub! Aqui, compartilho meus projetos pessoais, insights e co
 - Graduando de Sistemas de Informação - Uninter.
 - Estudando Ciência de Dados, IA e Machine Learning.
 
-<p>Caso queira conhecer minha trilha como deve, sinta-se livre para visitar o repósitório [Minha Jornada em Desenvolvimento de Software](https://github.com/GoesDev/minha-jornada-em-desenvolvimento-de-software).</p>
+Caso queira conhecer minha trilha como deve, sinta-se livre para visitar o repósitório [Minha Jornada em Desenvolvimento de Software](https://github.com/GoesDev/minha-jornada-em-desenvolvimento-de-software).
+
 ---
 <div>
 <a href="https://github.com/GoesDev">
